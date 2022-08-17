@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning: **JavaScript**
 
-- 💬 Ask me about: **Java**
+- 💬 Ask me about: **Python**
 
 - ⚡ Fun fact: **I watched 2000 movies in 2021**
 
