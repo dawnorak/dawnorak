@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: **Text Recognition**
 
-- 🌱 I’m currently learning: **JavaScript**
+- 🌱 I’m currently learning: **React**
 
 - 💬 Ask me about: **Python**
 
