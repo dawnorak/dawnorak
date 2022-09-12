@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/edmondkirsch" target="blank"><img src="https://img.shields.io/twitter/follow/edmondkirsch?logo=twitter&style=for-the-badge" alt="edmondkirsch" /></a> </p>
 
-- 🔭 I’m currently working on: **Text Recognition**
+- 🔭 I’m currently working on: **Image Prcoessing**
 
 - 🌱 I’m currently learning: **ReactJS**
 
