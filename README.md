@@ -27,5 +27,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawnorak&show_icons=true&locale=en&layout=compact&theme=prussian" alt="dawnorak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dawnorak&show_icons=true&locale=en&theme=prussian" alt="dawnorak" /></p>
-
