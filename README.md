@@ -1,10 +1,9 @@
 <!--
 **dawnorak/dawnorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![alt text](github-header-image.png)
-
-<h1 align="center">Hi 👋, I'm Dawn</h1>
-<h3 align="center">Just a cinephile who codes</h3>
+<p align="center">
+  <img src="github-header-image.png" width=0.9vw title="hover text">
+</p>
 
 <p align="left"> <a href="https://twitter.com/edmondkirsch" target="blank"><img src="https://img.shields.io/twitter/follow/edmondkirsch?logo=twitter&style=for-the-badge" alt="edmondkirsch" /></a> </p>
 
