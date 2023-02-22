@@ -1,7 +1,7 @@
 <!--
 **dawnorak/dawnorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="header" alt="Header Image">
+![alt text](header.png)
 
 <h1 align="center">Hi 👋, I'm Dawn</h1>
 <h3 align="center">Just a cinephile who codes</h3>
