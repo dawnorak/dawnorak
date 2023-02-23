@@ -2,18 +2,18 @@
 **dawnorak/dawnorak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <p align="center">
-  <img src="header-image.png" width=90% title="header image">
+  <img src="header-image.png" width=95% title="header image">
 </p>
 
 <p align="left"> <a href="https://twitter.com/edmondkirsch" target="blank"><img src="https://img.shields.io/twitter/follow/edmondkirsch?logo=twitter&style=for-the-badge" alt="edmondkirsch" /></a> </p>
 
 - 🔭 I’m currently working on: **Image Prcoessing**
 
-- 🌱 I’m currently learning: **ReactJS**
+- 🌱 I’m currently learning: **Spring Boot**
 
 - 💬 Ask me about: **Python**
 
-- ⚡ Fun fact: **I watched 2000 movies in 2021**
+- ⚡ Fun fact: **I watch a lot of movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
