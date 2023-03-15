@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/edmondkirsch" target="blank"><img src="https://img.shields.io/twitter/follow/edmondkirsch?logo=twitter&style=for-the-badge" alt="edmondkirsch" /></a> </p>
 
-- 🔭 I’m currently working on: **Image Prcoessing**
+- 🔭 I’m currently working on: **Spring Boot**
 
-- 🌱 I’m currently learning: **Spring Boot**
+- 🌱 I’m currently learning: **Front-End Development**
 
-- 💬 Ask me about: **Python**
+- 💬 Ask me about: **Deep Learning**
 
-- ⚡ Fun fact: **I watch a lot of movies**
+- ⚡ Fun fact: **I watch as many movies as the number of lines I code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
