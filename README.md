@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on: **Spring Boot**
 
-- 🌱 I’m currently learning: **Front-End Development**
+- 🌱 I’m currently learning: **Unity**
 
 - 💬 Ask me about: **Deep Learning**
 
