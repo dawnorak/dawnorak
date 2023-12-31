@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/edmondkirsch" target="blank"><img src="https://img.shields.io/twitter/follow/edmondkirsch?logo=twitter&style=for-the-badge" alt="edmondkirsch" /></a> </p>
 
-- 🔭 I’m currently working on: **Multi-Agent Reinforcement Learning**
+- 🔭 I’m currently working on: **Computer Vision**
 
 - 🌱 I’m currently learning: **Unity**
 
