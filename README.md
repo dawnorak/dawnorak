@@ -17,10 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/edmondkirsch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edmondkirsch" height="30" width="40" /></a>
   <a href="https://letterboxd.com/dawnzy/" target="blank"><img align="center" src="https://a.ltrbxd.com/logos/letterboxd-decal-l-grad2-rgb-1000px.png" alt="dawnzy" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/vaigarai-sathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaigarai-sathi" height="30" width="40" /></a>
-  <a href="https://fb.com/yensaeyak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yensaeyak" height="30" width="40" /></a>
   <a href="https://instagram.com/d_wnx_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_wnx_z" height="30" width="40" /></a>
 </p>
 
