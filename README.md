@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on: **Computer Vision**
 
-- 🌱 I’m currently learning: **Unity**
+- 🌱 I’m currently learning: **C++**
 
 - 💬 Ask me about: **Spring Boot**
 
