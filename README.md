@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning: **C++**
 
-- 💬 Ask me about: **Spring Boot**
+- 💬 Ask me about: **Python**
 
 - ⚡ Fun fact: **I watch as many movies as the number of lines I code**
 
