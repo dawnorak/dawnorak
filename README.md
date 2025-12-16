@@ -42,4 +42,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dawnorak&show_icons=true&locale=en&layout=compact&theme=prussian" alt="dawnorak" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawnorak&theme=dark" alt="dawnorak" /></p>
