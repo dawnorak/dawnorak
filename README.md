@@ -5,9 +5,9 @@
   <img src="header-image.png" width=95% title="header image">
 </p>
 
-- 🔭 I’m currently working on: **Execution Algorithms**
+- 🔭 I’m currently working on: **Natural Language Processing**
 
-- 🌱 I’m currently learning: **OCaml**
+- 🌱 I’m currently learning: **Transformers**
 
 - 💬 Ask me about: **Python**
 
